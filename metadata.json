@@ -1,0 +1,7 @@
+{
+  "name": "Mufti AI Assistant",
+  "description": "An interactive voice assistant powered by Gemini Live API, embodying the persona of Mufti Mohtasham Ali - Islamic Scholar and AI Expert.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
